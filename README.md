@@ -15,8 +15,8 @@ Neurosign: A Bidirectional Neural Network for Sign-to-Speech and Speech-to-Sign 
 - Git & GitHub
 
 ## 📫 Contact
-Email: your-email@gmail.com
-LinkedIn: your-linkedin
+Email: abhisheknj37@gail@gmail.com
+LinkedIn: [abhishek-n-j]
 
 ## ⚡ Fun Fact
 I love building AI based projects and learning new technologies.# README.md
